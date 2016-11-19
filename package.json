@@ -1,0 +1,26 @@
+{
+  "name": "streamberry",
+  "version": "1.0.0",
+  "description": "\"Observable streams for raspberry pi gpio\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhnstn/streamberry.git"
+  },
+  "keywords": [
+    "gpio",
+    "rxjs",
+    "reactive",
+    "raspberry",
+    "pi"
+  ],
+  "author": "jhnstn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jhnstn/streamberry/issues"
+  },
+  "homepage": "https://github.com/jhnstn/streamberry#readme"
+}
